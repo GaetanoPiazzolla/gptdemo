@@ -16,3 +16,7 @@ We will try to add logging and other useful stuff.
 - ChatGPT Integration with IDE: https://plugins.jetbrains.com/plugin/20629-chatgpt-tool
 - AI commits https://github.com/Nutlope/aicommits 
 - GPT Vector Index https://pypi.org/project/gpt-index/
+
+cd ..
+python3 generate_index.py gptdemo
+python3 ask_gpt.py "what fields are in the book entity?"
