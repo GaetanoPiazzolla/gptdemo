@@ -1,6 +1,9 @@
+https://github.com/GaetanoPiazzolla/gptdemo
+
 ### Disclaimer:
-- This demo will Show the usage of openAI CHATGPT 3 from an user perspective
+- This demo will Show the usage of openAI ChatGPT 3 from a user perspective
 - The answers of the Chat do not follow always the same pattern
+- The application we will build is far from a real app
 - This is my First live webinar, please be Kind!
 
 ### What we are going to build:
